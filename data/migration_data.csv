@@ -1,0 +1,301 @@
+,Arrival,Departure,Total,Year,State-Territory
+0,75020,-39100,35920,2006,New South Wales
+1,51670,-23810,27860,2006,Victoria
+2,41240,-21250,19980,2006,Queensland
+3,11820,-4640,7180,2006,South Australia
+4,26430,-11520,14910,2006,Western Australia
+5,1750,-950,800,2006,Tasmania
+6,2330,-2080,260,2006,Northern Territory
+7,3170,-2500,670,2006,Australian Capital Territory
+8,0,0,0,2006,Not Stated
+9,0,0,0,2006,Norfolk Island
+10,0,0,0,2006,Christmas Island
+11,0,0,0,2006,Jervis Bay
+12,0,0,0,2006,Cocos (Keeling) Islands
+13,0,0,0,2006,Other Territories
+14,213410,-105840,107570,2006,Total
+15,157740,-80850,76900,2007,New South Wales
+16,114620,-48150,66470,2007,Victoria
+17,91950,-44270,47680,2007,Queensland
+18,23490,-9660,13830,2007,South Australia
+19,58170,-23740,34430,2007,Western Australia
+20,3530,-2060,1470,2007,Tasmania
+21,4500,-3130,1380,2007,Northern Territory
+22,6580,-4700,1880,2007,Australian Capital Territory
+23,0,0,0,2007,Not Stated
+24,0,0,0,2007,Norfolk Island
+25,0,0,0,2007,Christmas Island
+26,0,0,0,2007,Jervis Bay
+27,0,0,0,2007,Cocos (Keeling) Islands
+28,0,0,0,2007,Other Territories
+29,460580,-216550,244030,2007,Total
+30,178560,-82130,96430,2008,New South Wales
+31,133000,-49770,83230,2008,Victoria
+32,106900,-44060,62840,2008,Queensland
+33,27160,-9540,17620,2008,South Australia
+34,72850,-24660,48190,2008,Western Australia
+35,4270,-2180,2090,2008,Tasmania
+36,5190,-3220,1970,2008,Northern Territory
+37,8040,-4710,3330,2008,Australian Capital Territory
+38,0,0,0,2008,Not Stated
+39,0,0,0,2008,Norfolk Island
+40,0,0,0,2008,Christmas Island
+41,0,0,0,2008,Jervis Bay
+42,0,0,0,2008,Cocos (Keeling) Islands
+43,10,0,10,2008,Other Territories
+44,535970,-220280,315690,2008,Total
+45,155060,-84900,70160,2009,New South Wales
+46,123840,-51750,72090,2009,Victoria
+47,94200,-46880,47330,2009,Queensland
+48,26810,-9630,17170,2009,South Australia
+49,60960,-28120,32840,2009,Western Australia
+50,4110,-2180,1930,2009,Tasmania
+51,5230,-3540,1690,2009,Northern Territory
+52,8560,-4890,3670,2009,Australian Capital Territory
+53,0,0,0,2009,Not Stated
+54,0,0,0,2009,Norfolk Island
+55,0,0,0,2009,Christmas Island
+56,0,0,0,2009,Jervis Bay
+57,0,0,0,2009,Cocos (Keeling) Islands
+58,30,0,30,2009,Other Territories
+59,478790,-231890,246900,2009,Total
+60,141230,-91180,50040,2010,New South Wales
+61,102810,-59600,43210,2010,Victoria
+62,82310,-50640,31670,2010,Queensland
+63,21910,-11010,10890,2010,South Australia
+64,60980,-29080,31900,2010,Western Australia
+65,3740,-2510,1230,2010,Tasmania
+66,4590,-3510,1090,2010,Northern Territory
+67,7550,-5550,2000,2010,Australian Capital Territory
+68,0,0,0,2010,Not Stated
+69,0,0,0,2010,Norfolk Island
+70,0,0,0,2010,Christmas Island
+71,0,0,0,2010,Jervis Bay
+72,0,0,0,2010,Cocos (Keeling) Islands
+73,0,0,0,2010,Other Territories
+74,425120,-253080,172040,2010,Total
+75,141580,-87410,54170,2011,New South Wales
+76,109070,-58010,51060,2011,Victoria
+77,88960,-48040,40920,2011,Queensland
+78,20980,-10540,10430,2011,South Australia
+79,70680,-27400,43280,2011,Western Australia
+80,3580,-2330,1250,2011,Tasmania
+81,5710,-3640,2070,2011,Northern Territory
+82,8460,-5410,3050,2011,Australian Capital Territory
+83,0,0,0,2011,Not Stated
+84,0,0,0,2011,Norfolk Island
+85,0,0,0,2011,Christmas Island
+86,0,0,0,2011,Jervis Bay
+87,0,0,0,2011,Cocos (Keeling) Islands
+88,10,0,10,2011,Other Territories
+89,449020,-242780,206240,2011,Total
+90,144960,-81820,63140,2012,New South Wales
+91,115990,-57230,58750,2012,Victoria
+92,94890,-47630,47260,2012,Queensland
+93,22740,-10860,11870,2012,South Australia
+94,79310,-29350,49970,2012,Western Australia
+95,3860,-2280,1580,2012,Tasmania
+96,7490,-3370,4120,2012,Northern Territory
+97,9120,-5560,3560,2012,Australian Capital Territory
+98,0,0,0,2012,Not Stated
+99,0,0,0,2012,Norfolk Island
+100,0,0,0,2012,Christmas Island
+101,0,0,0,2012,Jervis Bay
+102,0,0,0,2012,Cocos (Keeling) Islands
+103,0,0,0,2012,Other Territories
+104,478350,-238110,240250,2012,Total
+105,157160,-89570,67580,2013,New South Wales
+106,121650,-63150,58500,2013,Victoria
+107,88570,-55110,33460,2013,Queensland
+108,23700,-11570,12130,2013,South Australia
+109,67450,-38390,29060,2013,Western Australia
+110,4150,-2360,1790,2013,Tasmania
+111,7250,-4060,3190,2013,Northern Territory
+112,8750,-6110,2650,2013,Australian Capital Territory
+113,0,0,0,2013,Not Stated
+114,0,0,0,2013,Norfolk Island
+115,0,0,0,2013,Christmas Island
+116,0,0,0,2013,Jervis Bay
+117,0,0,0,2013,Cocos (Keeling) Islands
+118,0,0,0,2013,Other Territories
+119,478680,-270310,208380,2013,Total
+120,156990,-88640,68350,2014,New South Wales
+121,124310,-65920,58390,2014,Victoria
+122,79940,-56910,23030,2014,Queensland
+123,22810,-11830,10970,2014,South Australia
+124,55310,-39800,15510,2014,Western Australia
+125,4230,-2510,1730,2014,Tasmania
+126,5850,-4710,1140,2014,Northern Territory
+127,9310,-6100,3210,2014,Australian Capital Territory
+128,0,0,0,2014,Not Stated
+129,0,0,0,2014,Norfolk Island
+130,10,0,0,2014,Christmas Island
+131,0,0,0,2014,Jervis Bay
+132,0,0,0,2014,Cocos (Keeling) Islands
+133,0,0,0,2014,Other Territories
+134,458760,-276410,182350,2014,Total
+135,164230,-91390,72840,2015,New South Wales
+136,132710,-68520,64190,2015,Victoria
+137,79920,-60440,19480,2015,Queensland
+138,23550,-12300,11250,2015,South Australia
+139,52470,-39720,12740,2015,Western Australia
+140,4040,-2620,1410,2015,Tasmania
+141,6880,-5340,1540,2015,Northern Territory
+142,9460,-6190,3270,2015,Australian Capital Territory
+143,0,0,0,2015,Not Stated
+144,0,0,0,2015,Norfolk Island
+145,0,0,0,2015,Christmas Island
+146,0,0,0,2015,Jervis Bay
+147,0,0,0,2015,Cocos (Keeling) Islands
+148,0,0,0,2015,Other Territories
+149,473250,-286520,186730,2015,Total
+150,186750,-90550,96200,2016,New South Wales
+151,150750,-67850,82910,2016,Victoria
+152,86130,-53700,32430,2016,Queensland
+153,23990,-11890,12110,2016,South Australia
+154,50620,-38650,11960,2016,Western Australia
+155,4610,-2330,2280,2016,Tasmania
+156,6790,-4710,2090,2016,Northern Territory
+157,10000,-6150,3850,2016,Australian Capital Territory
+158,0,0,0,2016,Not Stated
+159,0,0,0,2016,Norfolk Island
+160,10,0,10,2016,Christmas Island
+161,0,0,0,2016,Jervis Bay
+162,0,0,0,2016,Cocos (Keeling) Islands
+163,0,0,0,2016,Other Territories
+164,519650,-275820,243830,2016,Total
+165,194410,-99490,94930,2017,New South Wales
+166,159710,-72580,87130,2017,Victoria
+167,86410,-58780,27640,2017,Queensland
+168,23700,-11600,12100,2017,South Australia
+169,45730,-34030,11700,2017,Western Australia
+170,4910,-2340,2570,2017,Tasmania
+171,5880,-4640,1240,2017,Northern Territory
+172,10560,-6210,4350,2017,Australian Capital Territory
+173,0,0,0,2017,Not Stated
+174,30,-10,20,2017,Norfolk Island
+175,20,-20,0,2017,Christmas Island
+176,0,0,0,2017,Jervis Bay
+177,0,-30,-20,2017,Cocos (Keeling) Islands
+178,0,0,0,2017,Other Territories
+179,531370,-289710,241660,2017,Total
+180,192490,-99600,92890,2018,New South Wales
+181,163520,-73980,89540,2018,Victoria
+182,87540,-53800,33740,2018,Queensland
+183,24910,-10950,13960,2018,South Australia
+184,44700,-30150,14550,2018,Western Australia
+185,5490,-2330,3170,2018,Tasmania
+186,5180,-4630,560,2018,Northern Territory
+187,10530,-6710,3820,2018,Australian Capital Territory
+188,0,0,0,2018,Not Stated
+189,20,-20,0,2018,Norfolk Island
+190,20,-20,10,2018,Christmas Island
+191,0,0,0,2018,Jervis Bay
+192,10,0,10,2018,Cocos (Keeling) Islands
+193,0,0,0,2018,Other Territories
+194,534400,-282180,252220,2018,Total
+195,208820,-129540,79280,2019,New South Wales
+196,185730,-100670,85060,2019,Victoria
+197,102080,-68160,33920,2019,Queensland
+198,30820,-14170,16640,2019,South Australia
+199,56850,-31350,25510,2019,Western Australia
+200,7230,-3260,3970,2019,Tasmania
+201,5600,-4600,990,2019,Northern Territory
+202,10700,-8470,2230,2019,Australian Capital Territory
+203,0,0,0,2019,Not Stated
+204,30,-20,10,2019,Norfolk Island
+205,20,-20,0,2019,Christmas Island
+206,0,0,0,2019,Jervis Bay
+207,10,0,10,2019,Cocos (Keeling) Islands
+208,0,0,0,2019,Other Territories
+209,607870,-360250,247620,2019,Total
+210,91330,-84400,6940,2020,New South Wales
+211,59750,-80120,-20370,2020,Victoria
+212,37900,-38920,-1020,2020,Queensland
+213,12910,-8850,4060,2020,South Australia
+214,23730,-18540,5190,2020,Western Australia
+215,2730,-2100,630,2020,Tasmania
+216,2180,-2120,60,2020,Northern Territory
+217,4780,-5260,-480,2020,Australian Capital Territory
+218,0,0,0,2020,Not Stated
+219,30,-10,20,2020,Norfolk Island
+220,10,-10,0,2020,Christmas Island
+221,0,0,0,2020,Jervis Bay
+222,10,0,10,2020,Cocos (Keeling) Islands
+223,0,0,0,2020,Other Territories
+224,235350,-240320,-4970,2020,Total
+225,87770,-75040,12730,2021,New South Wales
+226,58160,-63520,-5360,2021,Victoria
+227,31950,-32220,-270,2021,Queensland
+228,9370,-8160,1210,2021,South Australia
+229,16390,-17350,-960,2021,Western Australia
+230,3200,-1730,1470,2021,Tasmania
+231,2810,-1560,1250,2021,Northern Territory
+232,4720,-5500,-780,2021,Australian Capital Territory
+233,0,0,0,2021,Not Stated
+234,10,-10,0,2021,Norfolk Island
+235,20,-10,10,2021,Christmas Island
+236,0,0,0,2021,Jervis Bay
+237,10,0,10,2021,Cocos (Keeling) Islands
+238,0,0,0,2021,Other Territories
+239,214410,-205100,9300,2021,Total
+240,224940,-77620,147320,2022,New South Wales
+241,190580,-56600,133980,2022,Victoria
+242,107390,-38720,68670,2022,Queensland
+243,35240,-8940,26300,2022,South Australia
+244,68490,-21950,46540,2022,Western Australia
+245,6710,-2320,4390,2022,Tasmania
+246,5810,-2190,3630,2022,Northern Territory
+247,12080,-5110,6970,2022,Australian Capital Territory
+248,0,0,0,2022,Not Stated
+249,20,-20,0,2022,Norfolk Island
+250,90,-20,70,2022,Christmas Island
+251,0,-10,0,2022,Jervis Bay
+252,0,0,0,2022,Cocos (Keeling) Islands
+253,0,0,0,2022,Other Territories
+254,651350,-213500,437860,2022,Total
+255,246760,-74600,172160,2023,New South Wales
+256,211160,-55500,155650,2023,Victoria
+257,125990,-38650,87340,2023,Queensland
+258,37930,-9140,28790,2023,South Australia
+259,90440,-21010,69430,2023,Western Australia
+260,7090,-2300,4790,2023,Tasmania
+261,6380,-1820,4560,2023,Northern Territory
+262,13220,-5360,7860,2023,Australian Capital Territory
+263,0,0,0,2023,Not Stated
+264,10,-20,-10,2023,Norfolk Island
+265,50,-10,40,2023,Christmas Island
+266,0,0,0,2023,Jervis Bay
+267,0,0,0,2023,Cocos (Keeling) Islands
+268,0,0,0,2023,Other Territories
+269,739030,-208410,530620,2023,Total
+270,190900,-92620,98290,2024,New South Wales
+271,167750,-70550,97200,2024,Victoria
+272,108060,-50750,57310,2024,Queensland
+273,29840,-10320,19520,2024,South Australia
+274,74770,-28580,46190,2024,Western Australia
+275,5920,-2370,3550,2024,Tasmania
+276,5460,-2070,3400,2024,Northern Territory
+277,10780,-6320,4460,2024,Australian Capital Territory
+278,0,0,0,2024,Not Stated
+279,20,-10,10,2024,Norfolk Island
+280,30,-10,20,2024,Christmas Island
+281,0,0,0,2024,Jervis Bay
+282,10,-10,10,2024,Cocos (Keeling) Islands
+283,0,0,0,2024,Other Territories
+284,593540,-263610,329940,2024,Total
+285,88010,-41740,46280,2025,New South Wales
+286,80220,-33170,47050,2025,Victoria
+287,53370,-22660,30720,2025,Queensland
+288,14760,-4950,9800,2025,South Australia
+289,34020,-13700,20320,2025,Western Australia
+290,2340,-1360,980,2025,Tasmania
+291,2770,-840,1930,2025,Northern Territory
+292,5450,-2380,3070,2025,Australian Capital Territory
+293,0,0,0,2025,Not Stated
+294,10,-10,0,2025,Norfolk Island
+295,10,-10,10,2025,Christmas Island
+296,0,0,0,2025,Jervis Bay
+297,0,0,0,2025,Cocos (Keeling) Islands
+298,0,0,0,2025,Other Territories
+299,280970,-120810,160160,2025,Total
